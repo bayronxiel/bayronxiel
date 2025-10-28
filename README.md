@@ -36,13 +36,13 @@ Después de más de una década explorando las artes visuales, encontré en la p
 
 ## 🚀 Proyectos Destacados
 
-### 🎨 [Catálogo de Exposiciones - API REST](https://github.com/bayronxiel/catalogo-exposiciones)
-API para gestionar exposiciones artísticas (crear, editar y consultar datos).  
+### 🎨 [Foro Hub - API REST](https://github.com/bayronxiel/Foro_hub)
+API REST para un sistema de foro, desarrollada como parte del Challenge de Backend de Alura Latam y el programa Oracle Next Education-ONE (crear, editar y consultar datos).  
 **Stack:** Java · Spring Boot · JPA · MySQL · Swagger · Postman  
 
 ---
 
-### 💱 [Conversor de Monedas - Challenge ONE](https://github.com/bayronxiel/conversor-monedas)
+### 💱 [Conversor de Monedas - Challenge ONE](https://github.com/bayronxiel/BayronCoin)
 Microservicio que convierte divisas usando una API externa.  
 **Stack:** Java · REST · JSON · Excepciones · Maven  
 
