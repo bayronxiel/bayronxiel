@@ -1,3 +1,4 @@
+![Bayron's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayronxiel&show_icons=true&theme=radical)
 <!-- Encabezado con presentación -->
 <h1 align="center">👋 ¡Hola! Soy Bayronxiel</h1>
 
